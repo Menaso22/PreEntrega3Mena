@@ -1,0 +1,13 @@
+@import "./partials/variables";
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+@import "./partials/carrusel";
+@import "./partials/marketing";
+@import "./partials/featurette";
+@import "./partials/responsive";
+@import "./partials/animations";
